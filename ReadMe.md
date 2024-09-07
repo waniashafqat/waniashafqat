@@ -1,5 +1,5 @@
 # 💫 About Me:
-📡 I’m currently working on freelance programming projects in data science and machine learning.<br>🧑‍🤝‍🧑 I’m looking to collaborate on AI, machine learning, and cybersecurity projects.<br>🤝 I’m looking for help with advanced machine learning techniques and project management.<br>🌱 I’m currently learning PyTorch, TensorFlow, and Android development.<br>💬 Ask me about Image scaling attacks, Python, and data analysis.<br>⚡ Fun fact: I enjoy photography and capturing nature scenes.
+📡 I’m currently working on freelance programming projects in data science and machine learning.<br>🧑‍🤝‍🧑 I’m looking to collaborate on AI, machine learning, and cybersecurity projects.<br>🤝 I’m looking for help with advanced machine learning techniques and project management.<br>🌱 I’m currently learning PyTorch, TensorFlow, and Android development.<br>💬 Ask me about Image scaling attacks, Python, and data analysis.<br>⚡ Fun fact, I enjoy photography and capturing nature scenes.
 
 
 ## 🌐 Socials:
