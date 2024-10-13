@@ -10,36 +10,35 @@
 
 ### 👩‍🔬 &nbsp; About Me
 
-- Graduate of Bachelor's in Computer Science from [Institute of Space Technology](https://www.ist.edu.pk/) (IST), Pakistan.
-- Specialized in AI, adversarial Machine Learning, and Cybersecurity.
-- Passionate about exploring how **data preprocessing techniques** can influence and deceive ML models.
+- Graduate with a Bachelor's in Computer Science from [Institute of Space Technology](https://www.ist.edu.pk/) (IST), Pakistan.
+- Specialized in adversarial Machine Learning, and security in AI systems.
+- Passionate about exploring how data preprocessing techniques can influence and deceive ML models.
 
 <br>
 
-### 🧬 &nbsp; Projects Overview
+### 🌌 &nbsp; Top Projects
 <p align="left">
  <a href="https://github.com/waniashafqat/Image-Scaling-Attacks-on-Machine-Learning-Algorithms">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Image-Scaling-Attacks-on-Machine-Learning-Algorithms&theme=react"/>
   </a>
   <a href="https://github.com/waniashafqat/Airime-Recharge-Android-Application">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Airime-Recharge-Android-Application&theme=react"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Airime-Recharge-Android-Application&theme=react&description=Your+custom+description+here"/>
   </a>
   <a href="https://github.com/waniashafqat/SGPA-and-CGPA-Prediction-Project">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=SGPA-and-CGPA-Prediction-Project&theme=react"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=SGPA-and-CGPA-Prediction-Project&theme=react"/>
   </a>
   <a href="https://github.com/waniashafqat/Fake-News-Detection-using-Bi-LSTM">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Fake-News-Detection-using-Bi-LSTM&theme=react"/>
   </a>
 </p>
 
-
 <br>
 
-### ⚙️ &nbsp; Github Analytics
+### ⚙️ &nbsp; GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/waniashafqat">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waniashafqat&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waniashafqat&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waniashafqat&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
