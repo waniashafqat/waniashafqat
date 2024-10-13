@@ -18,12 +18,18 @@
 
 ### 🧬 &nbsp; Projects Overview
 <p align="left">
-  <a href="https://github.com/waniashafqat">
+ <a href="https://github.com/waniashafqat/Image-Scaling-Attacks-on-Machine-Learning-Algorithms">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Image-Scaling-Attacks-on-Machine-Learning-Algorithms&theme=react"/>
-    <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Airime-Recharge-Android-Application&theme=react"/>
-    <img height="140em"  src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=SGPA-and-CGPA-Prediction-Project&theme=react"/>
-    <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Fake-News-Detection-using-Bi-LSTM&theme=react"/>
-  </a> 
+  </a>
+  <a href="https://github.com/waniashafqat/Airime-Recharge-Android-Application">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Airime-Recharge-Android-Application&theme=react"/>
+  </a>
+  <a href="https://github.com/waniashafqat/SGPA-and-CGPA-Prediction-Project">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=SGPA-and-CGPA-Prediction-Project&theme=react"/>
+  </a>
+  <a href="https://github.com/waniashafqat/Fake-News-Detection-using-Bi-LSTM">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Fake-News-Detection-using-Bi-LSTM&theme=react"/>
+  </a>
 </p>
 
 
