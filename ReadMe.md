@@ -38,7 +38,7 @@
   <a href="https://github.com/waniashafqat/Real-Estate-Data-Mining">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Real-Estate-Data-Mining&theme=react"/>
   </a>
-  <a href="https:https://github.com/waniashafqat/Fraud-Detection-on-Credit-Card-Transactions">
+  <a href="https://github.com/waniashafqat/Fraud-Detection-on-Credit-Card-Transactions">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Fraud-Detection-on-Credit-Card-Transactions&theme=react"/>
   </a>
 
