@@ -32,15 +32,19 @@
  <a href="https://github.com/waniashafqat/Image-Scaling-Attacks-on-Machine-Learning-Algorithms">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Image-Scaling-Attacks-on-Machine-Learning-Algorithms&theme=react"/>
   </a>
+  <a href="https:https://github.com/waniashafqat/Virtual-Private-Network">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Virtual-Private-Network&theme=react"/>
+  </a>
+  <a href="https://github.com/waniashafqat/Real-Estate-Data-Mining">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Real Estate Data Mining&theme=react"/>
+  </a>
+ <a href="https:https://github.com/waniashafqat/Fraud-Detection-on-Credit-Card-Transactions">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Fraud-Detection-on-Credit-Card-Transactions&theme=react"/>
+  </a>
   <a href="https://github.com/waniashafqat/Airime-Recharge-Android-Application">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Airime-Recharge-Android-Application&theme=react&description=Your+custom+description+here"/>
   </a>
-  <a href="https://github.com/waniashafqat/SGPA-and-CGPA-Prediction-Project">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=SGPA-and-CGPA-Prediction-Project&theme=react"/>
-  </a>
-  <a href="https://github.com/waniashafqat/Fake-News-Detection-using-Bi-LSTM">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Fake-News-Detection-using-Bi-LSTM&theme=react"/>
-  </a>
+
 </p>
 
 <br>
