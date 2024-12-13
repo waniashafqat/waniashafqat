@@ -36,13 +36,10 @@
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Virtual-Private-Network&theme=react"/>
   </a>
   <a href="https://github.com/waniashafqat/Real-Estate-Data-Mining">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Real Estate Data Mining&theme=react"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Real-Estate-Data-Mining&theme=react"/>
   </a>
- <a href="https:https://github.com/waniashafqat/Fraud-Detection-on-Credit-Card-Transactions">
+  <a href="https:https://github.com/waniashafqat/Fraud-Detection-on-Credit-Card-Transactions">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Fraud-Detection-on-Credit-Card-Transactions&theme=react"/>
-  </a>
-  <a href="https://github.com/waniashafqat/Airime-Recharge-Android-Application">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Airime-Recharge-Android-Application&theme=react&description=Your+custom+description+here"/>
   </a>
 
 </p>
