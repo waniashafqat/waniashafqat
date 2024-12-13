@@ -32,7 +32,7 @@
  <a href="https://github.com/waniashafqat/Image-Scaling-Attacks-on-Machine-Learning-Algorithms">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Image-Scaling-Attacks-on-Machine-Learning-Algorithms&theme=react"/>
   </a>
-  <a href="https:https://github.com/waniashafqat/Virtual-Private-Network">
+  <a href="https://github.com/waniashafqat/Virtual-Private-Network">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=waniashafqat&repo=Virtual-Private-Network&theme=react"/>
   </a>
   <a href="https://github.com/waniashafqat/Real-Estate-Data-Mining">
